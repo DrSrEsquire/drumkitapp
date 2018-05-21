@@ -15,7 +15,7 @@ defaults:
   values:
     layout: post
     permalink: "/posts/:title/"
-    file:
+    file: 
     keycode: 
 - scope:
     path: ''
@@ -23,5 +23,3 @@ defaults:
   values:
     layout: page
 permalink: pretty
-
-
